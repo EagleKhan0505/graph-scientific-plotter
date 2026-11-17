@@ -1,4 +1,12 @@
 *
 !/.gitignore
-!/README.md
+!/assets/
+/assets/*
+!/demo/
+/demo/*
 !/README.en.md
+!/README.md
+!/assets/graph-comando.jpg
+!/assets/graph-resultado.jpg
+!/demo/LEIA-ME.md
+!/demo/demonstracao_sintetica.csv
