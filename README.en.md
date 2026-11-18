@@ -1,5 +1,9 @@
 # Graph
 
+**In development**<br>
+Earliest local record: May 8, 2026 · Last recorded update: September 4, 2026<br>
+<sub>Presentation updated on November 17, 2026.</sub>
+
 I want scientific data work to feel more intuitive: import a measurement, try a transformation, understand the change and prepare a figure in one environment. Graph aims to bring together a broad analysis and plotting toolset, comparable in scope to established scientific software, with AI integrated into the workflow. That breadth is a development goal, not a claim of completed feature parity.
 
 [Português](README.md) · [Portfolio](https://github.com/EagleKhan0505)

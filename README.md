@@ -1,5 +1,9 @@
 # Graph
 
+**Em desenvolvimento**<br>
+Primeiro registro local: 08/05/2026 · Última atualização registrada: 04/09/2026<br>
+<sub>Apresentação atualizada em 17/11/2026.</sub>
+
 Quero que trabalhar com dados científicos seja mais intuitivo: importar uma medida, experimentar um tratamento, entender o que mudou e preparar uma figura no mesmo ambiente. A ideia do Graph é reunir uma capacidade de análise e plotagem tão abrangente quanto a dos softwares usados nesse trabalho, com IA integrada à operação. Essa abrangência é a direção do projeto, ainda em desenvolvimento.
 
 [English](README.en.md) · [Portfólio](https://github.com/EagleKhan0505)
